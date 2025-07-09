@@ -1,3 +1,6 @@
 [submodule "tic-tac-toe"]
 	path = tic-tac-toe
 	url = https://github.com/ashhraaffff/tic-tac-toe-app.git
+[submodule "journal-app"]
+	path = journal-app
+	url = https://github.com/ashhraaffff/journal-app.git
