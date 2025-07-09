@@ -4,3 +4,6 @@
 [submodule "journal-app"]
 	path = journal-app
 	url = https://github.com/ashhraaffff/journal-app.git
+[submodule "dicegames-app"]
+	path = dicegames-app
+	url = https://github.com/ashhraaffff/dicegames-app.git
